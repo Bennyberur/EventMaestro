@@ -16,7 +16,7 @@ function App() {
   return (
     <>
       {/* <AppNavbar />
-      <Carousel />
+      
       <WelcomeSection />
       <Middle />
       <InternationalWeddingPlanner />
